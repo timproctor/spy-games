@@ -1,7 +1,7 @@
 spy-games
 =========
 
-Turn a message into simple encrypted message and then decode the encrypted message back to a message.
+#Turn a message into simple encrypted message and then decode the encrypted message back to a message.
 
 def encrypting(message_to_encrypt)
   message_to_encrypt = message_to_encrypt.downcase.split("")
